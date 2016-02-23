@@ -9,4 +9,4 @@ module.exports = (grunt) ->
     configPath: path.join(process.cwd(), 'config')
   })
 
-  #grunt.file.setBase('../')
+  grunt.file.setBase('../')
