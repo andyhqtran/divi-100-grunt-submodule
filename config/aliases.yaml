@@ -1,0 +1,9 @@
+sass-build:
+  - 'sass'
+  - 'csscomb'
+  - 'postcss'
+  - 'cssmin'
+
+default:
+  - 'sass-build'
+  - 'watch'
