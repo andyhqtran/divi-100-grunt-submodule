@@ -1,4 +1,4 @@
-module.exports = (grunt) ->
+module.exports = (grunt, options) ->
   options:
     livereload: true
     dateFormat: (time) ->
