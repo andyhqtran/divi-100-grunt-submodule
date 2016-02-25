@@ -25,7 +25,6 @@ module.exports =
         '!**/coffeelint.json'
         '!**/.jshintrc'
         '!**/phpcsexceptions.json'
-
         '!**/*.less'
         '!**/*.{scss,sass}'
         '!**/.sass_cache/**'
