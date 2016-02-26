@@ -31,4 +31,4 @@ module.exports = (grunt, options) ->
       'src/**/*.js'
       'assets/**/*.js'
     ]
-    tasks: ['jshint']
+    tasks: ['jshint', 'copy:js']
