@@ -6,4 +6,5 @@ sass-build:
 
 default:
   - 'sass-build'
+  - 'copy:js'
   - 'watch'
