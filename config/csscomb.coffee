@@ -4,11 +4,11 @@ module.exports =
 
   dev:
     expand: true
-    cwd: 'css'
+    cwd: 'assets/css'
     src: [
       '*.css'
       '!*.min.css'
       '!*.map'
     ]
-    dest: 'css'
+    dest: 'assets/css'
     ext: '.css'

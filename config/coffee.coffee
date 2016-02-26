@@ -4,5 +4,5 @@ module.exports =
     base: true
     cwd: 'src/coffee'
     src: ['*.coffee']
-    dest: 'js'
+    dest: 'assets/js'
     ext: '.js'

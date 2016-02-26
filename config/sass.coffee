@@ -11,5 +11,5 @@ module.exports =
       '*.{scss,sass}'
       '!_*.{scss,sass}'
     ]
-    dest: 'css'
+    dest: 'assets/css'
     ext: '.css'
