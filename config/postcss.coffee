@@ -14,4 +14,4 @@ module.exports =
     ]
 
   dev:
-    src: ['**/*.css']
+    src: ['assets/**/*.css']
