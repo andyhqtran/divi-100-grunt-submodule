@@ -5,7 +5,6 @@ module.exports = (grunt, options) ->
       grunt.log.writeln('Grunt has finished in ' + time + 'ms!')
       grunt.log.writeln('Waiting...')
     event: ['all']
-    interrupt: true
     spawn: false
 
   configFiles:
